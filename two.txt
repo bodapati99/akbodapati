@@ -1,4 +1,7 @@
 This is second file
 Applies are good
+Git is bad
 mangos are good
 Welcome to Git
+How are u
+
