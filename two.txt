@@ -1,4 +1,6 @@
 This is second file
 Applies are good
+git is good
 mangos are good
 Welcome to Git
+How are you
